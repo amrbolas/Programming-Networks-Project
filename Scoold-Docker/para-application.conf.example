@@ -1,0 +1,5 @@
+
+para.root_access_key = "app:para"
+para.root_secret_key = "CHANGE_ME"
+para.security.allow_proxy_headers = true
+para.security.cors.allow_origin = "https://app.amrbolas.site"

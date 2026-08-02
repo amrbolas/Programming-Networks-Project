@@ -1,0 +1,12 @@
+#############  CORE  #############
+
+scoold.para_access_key = "app:scoold"
+scoold.para_secret_key = "CHANGE_ME"
+scoold.para_endpoint = "http://para:8080"
+scoold.app_secret_key = "CHANGE_ME"
+
+#############  MISCELLANEOUS  #############
+
+scoold.autoinit.para_config_file = "/scoold/para-application.conf"
+scoold.base_url = "https://app.amrbolas.site"
+
